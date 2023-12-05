@@ -1,1 +1,5 @@
-# profile
+Hi there! 👋 I'm Susmitha, a passionate and results-driven Data Analyst, Junior Frontend Web Developer based in Melbourne, Victoria, Australia.
+
+ During my time as a Data Analyst Intern at Generation Australia, I honed my technical skills in Python, SQL, Power BI, and Azure, enabling me to perform insightful data analysis and create compelling visualizations. From exploring the AdventureWorks dataset to delivering an impactful PowerBI dashboard for the Olist store dataset, I love extracting meaningful insights from complex data sets. 
+ As a Freelance Frontend Web Developer with Modulr Tech, I embraced cutting-edge technologies like Angular 9, Bootstrap, and JavaScript to craft immersive user interfaces and build responsive single-page applications. My expertise in state management using Akita has empowered me to create seamless user experiences.
+ Leveraging my diverse skill set, including my growth mindset, effective communication, and persistence, I am driven to tackle new challenges and create innovative solutions. Whether it's driving data insights, developing user-centric applications, or Technical support, I thrive on making a positive impact.
